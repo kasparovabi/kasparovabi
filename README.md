@@ -14,6 +14,10 @@ where they are: pricing tables, end-of-life databases, recorded API responses in
 test fixtures, SDK constants named after the model they hold. In one sample of 18
 repositories only 4 were safe to patch. The other 14 would have been damage.
 
+<!-- OZET:BASLA -->
+**Open source record.** 6 published security advisories with reporter credit and 32 fixes merged into other projects. Full list with links in [security-research](https://github.com/kasparovabi/security-research).
+<!-- OZET:BITIR -->
+
 ### Selected work
 
 | | |
