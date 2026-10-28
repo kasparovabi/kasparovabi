@@ -24,6 +24,7 @@ repositories only 4 were safe to patch. The other 14 would have been damage.
 |---|---|
 | [claude-audit-20](https://github.com/kasparovabi/claude-audit-20) | Twenty failure classes as write-time coding rules, then a twenty-pass audit with a false-positive filter as the last pass |
 | [security-research](https://github.com/kasparovabi/security-research) | Findings and coordinated disclosures |
+| [semgrep-rules](https://github.com/kasparovabi/semgrep-rules) | Detection rules derived from these advisories, with tests and a guide per bug class |
 | [busted](https://github.com/kasparovabi/busted) | Mac desk guard that catches snoops |
 | [claude-mythos-scaffold](https://github.com/kasparovabi/claude-mythos-scaffold) | Agentic discipline for Opus 4.x. Retired in August 2026 because Claude 5 no longer needs it |
 
