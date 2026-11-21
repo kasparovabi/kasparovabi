@@ -35,7 +35,7 @@ ids that belong where they are, such as pricing tables, recorded API responses i
 fixtures and SDK constants named after the model they hold.
 
 <!-- OZET:BASLA -->
-**Open source record.** 19 published security advisories with reporter credit and 40 fixes merged into other projects. Full list with links in [security-research](https://github.com/kasparovabi/security-research).
+**Open source record.** 19 published security advisories with reporter credit and 41 fixes merged into other projects. Full list with links in [security-research](https://github.com/kasparovabi/security-research).
 <!-- OZET:BITIR -->
 
 ### Selected work
